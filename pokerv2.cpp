@@ -116,5 +116,4 @@ int main(){
 	getch();
 	return 0;
 }
-//Programa hecho por Julio César Barreto Torres (20211023083)
-//Y por Carlo Gabriel Canales Macias (20211023937)
+//Programa hecho por Julio CÃ©sar Barreto Torres (20211023083)
